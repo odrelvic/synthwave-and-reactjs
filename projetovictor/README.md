@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# WARNING
+This project was made with Create React App (React.js)
+It is necessary to have Node.js installed on your machine.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If not, please visit this link:
+https://nodejs.org/en/
+
 
 ## Available Scripts
 
